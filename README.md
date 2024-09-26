@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danesh_Shokri
+- 👋 Hi, I’m @Danesh Shokri
 - 👀 I’m interested in
     (1) Artificial Intelligence (AI) & Machine Learning: Developing innovative algorithms for real-time data analysis and pattern recognition.
     (2) Intelligent Transportation Systems (ITS): Leveraging AI to optimize traffic management, improve road safety, and enhance urban mobility.
