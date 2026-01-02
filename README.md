@@ -17,7 +17,7 @@ I build intelligent systems that bridge AI and geospatial science — from satel
 
 ## 🛠️ Tech Stack
 
-**Languages** — Python · R · JavaScript · SQL  
+**Languages** — Python · R · JavaScript · SQL  . CSS . HTML 
 **Geospatial** — GDAL · GeoPandas · Rasterio · Shapely · ArcGIS · QGIS · PostGIS  
 **ML/DL** — PyTorch · TensorFlow · Scikit-learn · YOLO · SAM · TensorRT  
 **Cloud** — AWS · Google Earth Engine · Docker · REST APIs  
